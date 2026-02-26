@@ -1,5 +1,10 @@
 torch
 torchvision
-opencv-python
 ultralytics
+opencv-python
+onnx
+onnxruntime
 numpy
+pillow
+scikit-learn
+matplotlib
